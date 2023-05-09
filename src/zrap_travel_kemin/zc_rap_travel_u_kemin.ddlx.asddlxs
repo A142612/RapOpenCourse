@@ -9,7 +9,7 @@
       value: 'TravelID'
     }
   },
-  presentationVariant: [ { sortOrder: [ { by:         'TravelID',
+  presentationVariant: [ { sortOrder: [ { by:         'TravelId',
                                           direction:  #DESC }] }]
 }
 annotate view ZC_RAP_Travel_U_KEMIN
